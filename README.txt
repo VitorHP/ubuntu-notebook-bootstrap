@@ -78,6 +78,7 @@ rvm requirements
 15 install postgresql
 sudo apt-get install postgresql-9.1
 sudo apt-get install libpq-dev
+copy pg_hba.conf to /etc/postgresql/9.1/main/
 
 install mysql
 sudo apt-get install mysql-server-5.5
