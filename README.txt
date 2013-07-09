@@ -105,3 +105,11 @@ http://files.vagrantup.com/packages/7e400d00a3c5a0fdf2809c8b5001a035415a607b/vag
 
 * install virtual box
 sudo apt-get install virtualbox
+
+* install the silver searcher
+http://swiftsignal.com/packages/ubuntu/precise/the-silver-searcher_0.14-1_amd64.deb
+
+* install redis server
+sudo apt-get install redis-server
+
+*install LPprof
