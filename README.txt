@@ -113,3 +113,5 @@ http://swiftsignal.com/packages/ubuntu/precise/the-silver-searcher_0.14-1_amd64.
 sudo apt-get install redis-server
 
 *install LPprof
+
+*install inconsolata font
